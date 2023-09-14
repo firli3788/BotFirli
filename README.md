@@ -42,3 +42,7 @@
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Hexagonz`](https://github.com/hexagonz)
 
+
+<p align="center">
+  <a href="https://github.com/yogipw"><img title="Author" 
+
