@@ -1,3 +1,4 @@
+7 Oktober 
 <div align="center">
 <img src="https://telegra.ph/Hehe-08-28.jpg" alt="YOGI" width="170" />
 
